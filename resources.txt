@@ -1,0 +1,6 @@
+https://mapicons.mapsmarker.com/markers/nature/animals/duck-2/
+
+https://developers.google.com/maps/documentation/javascript/reference
+
+http://www.w3schools.com/cssref/css_colors.asp
+
